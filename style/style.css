@@ -1,0 +1,24 @@
+html{
+    background-image: url(https://oir.mobi/uploads/posts/2021-03/1616991941_8-p-fon-dlya-prezentatsii-abstraktsiya-11.jpg);
+    font-family: cursive;
+    text-align: center;
+}
+h3, ol, ul{
+    text-align: left;
+}
+ol, ul{
+    border-style: ridge;
+    border-radius: 20px;
+}
+h1{
+    color: blueviolet;
+    text-shadow: 2px 2px 2px red;
+}
+.h3_web{
+    color: aquamarine;
+    text-shadow: 2px 2px 2px red;
+}
+.h3_wer{
+    color: aquamarine;
+    text-shadow: 2px 2px 2px red;
+}
